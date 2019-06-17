@@ -5,3 +5,4 @@
 5. git diff --cahced
 6. git reset 
 7. git reset --hard
+8. git remote
