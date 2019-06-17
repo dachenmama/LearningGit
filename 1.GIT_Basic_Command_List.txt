@@ -4,3 +4,4 @@
 4. git diff
 5. git diff --cahced
 6. git reset 
+7. git reset --hard
