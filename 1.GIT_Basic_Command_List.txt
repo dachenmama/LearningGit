@@ -7,3 +7,5 @@
 7. git reset --hard
 8. git remote
 9. git push
+10. git pull
+11. git merge
